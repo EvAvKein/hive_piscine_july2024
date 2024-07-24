@@ -1,0 +1,6 @@
+# .gitignore
+# *main.c
+# a.out
+# *.swp
+# *.hidden.c
+# *ft_stock_str.h*
